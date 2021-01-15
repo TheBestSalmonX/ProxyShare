@@ -2,12 +2,10 @@
 
 ## Web Proxy
 
-```txt
 - Host : ProxyShare [click here](https://proxy.webshare.io)
 - Register Page : [click here](https://proxy.webshare.io/register/)
 - Login Page : [click here](https://proxy.webshare.io/login/)
 - API KEY Page : [click here](https://proxy.webshare.io/userapi/keys)
-```
 
 ## How to get API KEY
 ```txt
